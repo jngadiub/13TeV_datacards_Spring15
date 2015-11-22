@@ -33,14 +33,14 @@ CMS_mass_scale_j_13TeV lnN 1.074/0.909 - - - -
 CMS_mass_res_j_13TeV lnN 0.974/1.024 - - - -
 CMS_res_j_13TeV lnN 1.003 - - - -
 CMS_xww_btag_eff_13TeV lnN 1.002 - - - -
-Deco_WJets0_xww_sb_lo_from_fitting_mu_LPZ_mlvj_eig0_13TeV param 0.0 1.4 
-Deco_WJets0_xww_sb_lo_from_fitting_mu_LPZ_mlvj_eig1_13TeV param 0.0 1.4 
-Deco_WJets0_xww_sb_lo_from_fitting_mu_LPZ_mlvj_eig2_13TeV param 0.0 1.4 
-Deco_WJets0_xww_sim_mu_LPZ_mlvj_eig0_13TeV param 0.0 1.4 
-Deco_WJets0_xww_sim_mu_LPZ_mlvj_eig1_13TeV param 0.0 1.4 
-Deco_WJets0_xww_sim_mu_LPZ_mlvj_eig2_13TeV param 0.0 1.4 
-Deco_WJets0_xww_sim_mu_LPZ_mlvj_eig3_13TeV param 0.0 1.4 
-Deco_TTbar_xww_signal_region_mu_LPZ_mlvj_eig0_13TeV param 0.0 2.0 
+Deco_WJets0_xww_sb_lo_from_fitting_mu_LPZ_mlvj_13TeV_eig0 param 0.0 1.4 
+Deco_WJets0_xww_sb_lo_from_fitting_mu_LPZ_mlvj_13TeV_eig1 param 0.0 1.4 
+Deco_WJets0_xww_sb_lo_from_fitting_mu_LPZ_mlvj_13TeV_eig2 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_LPZ_mlvj_13TeV_eig0 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_LPZ_mlvj_13TeV_eig1 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_LPZ_mlvj_13TeV_eig2 param 0.0 1.4 
+Deco_WJets0_xww_sim_mu_LPZ_mlvj_13TeV_eig3 param 0.0 1.4 
+Deco_TTbar_xww_signal_region_mu_LPZ_mlvj_13TeV_eig0 param 0.0 2.0 
 CMS_sig_p1_scale_m_13TeV param 0.0 1.0 
 CMS_sig_p2_scale_m_13TeV param 0.0 1.0 
 CMS_sig_p1_jes_13TeV param 0.0 1.0 

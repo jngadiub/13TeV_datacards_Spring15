@@ -41,24 +41,24 @@ CMS_xww_XS_VV_13TeV     lnN                      -            -            1.03 
 CMS_xww_btag_eff_13TeV   lnN                     1.002        -            -            -            -            1.002        -            -            -            -          
 CMS_xww_trigger_m_13TeV   lnN                    1.01         -            1.01         1.01         1.01         1.01         -            1.01         1.01         1.01       
 lumi_13TeV              lnN                      1.048        -            1.048        1.048        1.048        1.048        -            1.048        1.048        1.048      
-CMS_sig_p1_scale_m_13TeV  param  0.0 1.0
-Deco_WJets0_xww_sb_lo_from_fitting_mu_HPW_mlvj_eig0_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sb_lo_from_fitting_mu_HPW_mlvj_eig2_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sb_lo_from_fitting_mu_HPZ_mlvj_eig1_13TeV  param  0.0 1.4
-CMS_sig_p2_scale_m_13TeV  param  0.0 1.0
-Deco_WJets0_xww_sb_lo_from_fitting_mu_HPZ_mlvj_eig0_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sim_mu_HPZ_mlvj_eig3_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sim_mu_HPZ_mlvj_eig0_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sim_mu_HPW_mlvj_eig0_13TeV  param  0.0 1.4
 CMS_sig_p2_jer_13TeV  param  0.0 1.0
-Deco_WJets0_xww_sim_mu_HPZ_mlvj_eig1_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sim_mu_HPZ_mlvj_eig2_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sim_mu_HPW_mlvj_eig2_13TeV  param  0.0 1.4
-Deco_TTbar_xww_signal_region_mu_HPW_mlvj_eig0_13TeV  param  0.0 2.0
-Deco_TTbar_xww_signal_region_mu_HPZ_mlvj_eig0_13TeV  param  0.0 2.0
-Deco_WJets0_xww_sb_lo_from_fitting_mu_HPW_mlvj_eig1_13TeV  param  0.0 1.4
-Deco_WJets0_xww_sim_mu_HPW_mlvj_eig1_13TeV  param  0.0 1.4
+Deco_WJets0_xww_sim_mu_HPW_mlvj_13TeV_eig2  param  0.0 1.4
+Deco_TTbar_xww_signal_region_mu_HPZ_mlvj_13TeV_eig0  param  0.0 2.0
+Deco_WJets0_xww_sim_mu_HPW_mlvj_13TeV_eig0  param  0.0 1.4
+Deco_TTbar_xww_signal_region_mu_HPW_mlvj_13TeV_eig0  param  0.0 2.0
+CMS_sig_p2_scale_m_13TeV  param  0.0 1.0
+Deco_WJets0_xww_sim_mu_HPW_mlvj_13TeV_eig3  param  0.0 1.4
+Deco_WJets0_xww_sim_mu_HPZ_mlvj_13TeV_eig1  param  0.0 1.4
+Deco_WJets0_xww_sim_mu_HPW_mlvj_13TeV_eig1  param  0.0 1.4
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HPW_mlvj_13TeV_eig2  param  0.0 1.4
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HPW_mlvj_13TeV_eig1  param  0.0 1.4
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HPW_mlvj_13TeV_eig0  param  0.0 1.4
+Deco_WJets0_xww_sim_mu_HPZ_mlvj_13TeV_eig0  param  0.0 1.4
+Deco_WJets0_xww_sim_mu_HPZ_mlvj_13TeV_eig2  param  0.0 1.4
+CMS_sig_p1_scale_m_13TeV  param  0.0 1.0
 CMS_sig_p1_jes_13TeV  param  0.0 1.0
-Deco_WJets0_xww_sb_lo_from_fitting_mu_HPZ_mlvj_eig2_13TeV  param  0.0 1.4
+Deco_WJets0_xww_sim_mu_HPZ_mlvj_13TeV_eig3  param  0.0 1.4
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HPZ_mlvj_13TeV_eig2  param  0.0 1.4
 CMS_sig_p2_jes_13TeV  param  0.0 1.0
-Deco_WJets0_xww_sim_mu_HPW_mlvj_eig3_13TeV  param  0.0 1.4
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HPZ_mlvj_13TeV_eig0  param  0.0 1.4
+Deco_WJets0_xww_sb_lo_from_fitting_mu_HPZ_mlvj_13TeV_eig1  param  0.0 1.4
