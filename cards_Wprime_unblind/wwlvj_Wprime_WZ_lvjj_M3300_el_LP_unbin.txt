@@ -1,7 +1,7 @@
 Combination of cards_el_LPW/wwlvj_Wprime_WZ_lvjj_M3300_el_LPW_unbin.txt  cards_el_LPZ/wwlvj_Wprime_WZ_lvjj_M3300_el_LPZ_unbin.txt
 imax 2 number of bins
 jmax 4 number of processes minus 1
-kmax 35 number of nuisance parameters
+kmax 36 number of nuisance parameters
 ----------------------------------------------------------------------------------------------------------------------------------
 shapes STop_xww      ch1           cards_el_LPW/wwlvj_Wprime_WZ_lvjj_M3300_el_LPW_workspace.root workspace4limit_:$PROCESS_el_LPW
 shapes TTbar_xww     ch1           cards_el_LPW/wwlvj_Wprime_WZ_lvjj_M3300_el_LPW_workspace.root workspace4limit_:$PROCESS_el_LPW
@@ -38,6 +38,7 @@ CMS_xww_WJ_norm_el_LPW_13TeV   lnN               -             1.095         -  
 CMS_xww_WJ_norm_el_LPZ_13TeV   lnN               -             -             -             -             -             -             1.158         -             -             -           
 CMS_xww_XS_STop_13TeV   lnN                      -             -             1.05          -             -             -             -             1.05          -             -           
 CMS_xww_XS_VV_13TeV     lnN                      -             -             -             1.03          -             -             -             -             1.03          -           
+CMS_xww_XS_Wprime_WZ_13TeV   lnN                 1.118         -             -             -             -             1.118         -             -             -             -           
 CMS_xww_btag_eff_13TeV   lnN                     1.002         -             -             -             -             1.002         -             -             -             -           
 CMS_xww_trigger_e_13TeV   lnN                    1.01          -             1.01          1.01          1.01          1.01          -             1.01          1.01          1.01        
 lumi_13TeV              lnN                      1.046         -             1.046         1.046         1.046         1.046         -             1.046         1.046         1.046       

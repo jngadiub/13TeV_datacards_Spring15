@@ -11,7 +11,7 @@ process -1 1 2 3 4
 rate 1.59143 49.722 16.194 3.968 5.489
 -------------------------------- 
 lumi_13TeV lnN 1.046 - 1.046 1.046 1.046
-CMS_xww_XS_Wprime_WZ_13TeV lnN 1.000 - - - -
+CMS_xww_XS_Wprime_WZ_13TeV lnN 1.046 - - - -
 CMS_xww_XS_STop_13TeV lnN - - - 1.050 -
 CMS_xww_XS_VV_13TeV lnN - - - - 1.030
 CMS_xww_WJ_norm_mu_HPW_13TeV lnN - 1.049 - - -
